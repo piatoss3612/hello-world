@@ -63,5 +63,5 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-  <h1>안녕하세요</h1>
+  <h1>This is CI/CD pipeline!</h1>
 </form>
